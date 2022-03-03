@@ -1,0 +1,74 @@
+{
+    "doctors": [
+        {
+            "name": "allison adamus",
+            "id": "7643",
+            "clinic": "Martensville Collective Health and Wellness",
+            "address1": " Box 2241",
+            "address2": " Martensville    S0K 2T0",
+            "address": " Box 2241  Martensville    S0K 2T0",
+            "phone": " (306) 933-4110",
+            "gender": "F",
+            "google-map": "https://maps.google.ca/maps?q=Box%202241%20Martensville",
+            "qualification": "Medical Degree MD SASKATCHEWAN- University of Saskatchewan College of Medicine Canada 5/28/2008 12:00:00 AM",
+            "speciality": "family medicine",
+            "url": "https://www.cps.sk.ca/imis/CPSS/Physician_Summary/Physician_Profile.aspx?ID=7643"
+        },
+        {
+            "name": "Dr. Olanrewaju Okunola",
+            "id": "7982",
+            "clinic": "Martensville Collective Health and Wellness",
+            "address1": " Box 2241",
+            "address2": " Martensville    S0K 2T0",
+            "address": " Box 2241  Martensville    S0K 2T0",
+            "phone": " (306) 933-4110",
+            "gender": "M",
+            "google-map": "https://maps.google.ca/maps?q=Box%202241%20Martensville",
+            "qualification": "Medical Degree M.B.- Ch.B. NIGERIA- Ogun State University Nigeria 3/7/1999 12:00:00 AM",
+            "speciality": "Interventional Radiology",
+            "url": "https://www.cps.sk.ca/imis/CPSS/Physician_Summary/Physician_Profile.aspx?ID=7982"
+        },
+        {
+            "name": "Dr. Sarah Strasser",
+            "id": "19164",
+            "clinic": "Martensville Collective Health and Wellness",
+            "address1": " Box 2241",
+            "address2": " Martensville    S0K 2T0",
+            "address": " Box 2241  Martensville    S0K 2T0",
+            "phone": " (306) 933-4110",
+            "gender": "F",
+            "google-map": "https://maps.google.ca/maps?q=Box%202241%20Martensville",
+            "qualification": "Medical Degree M.B.- B.Ch.- B.A.O. IRELAND- National University of Ireland Ireland 5/16/2017 12:00:00 AM",
+            "speciality": "Family Medicine",
+            "url": "https://www.cps.sk.ca/imis/CPSS/Physician_Summary/Physician_Profile.aspx?ID=19164"
+        },
+        {
+            "name": "Dr. Amanda Walker",
+            "id": "9285",
+            "clinic": "Martensville Collective Health and Wellness",
+            "address1": " Box 2241",
+            "address2": " Martensville    S0K 2T0",
+            "address": " Box 2241  Martensville    S0K 2T0",
+            "phone": " (306) 933-4110",
+            "gender": "f",
+            "google-map": "https://maps.google.ca/maps?q=Box%202241%20Martensville",
+            "qualification": "Medical Degree M.D. SASKATCHEWAN- University of Saskatchewan College of Medicine Canada 6/6/2013 12:00:00 AM",
+            "speciality": "Family Medicine",
+            "url": "https://www.cps.sk.ca/imis/CPSS/Physician_Summary/Physician_Profile.aspx?ID=9285"
+        },
+        {
+            "name": "Dr. Matthew Wong",
+            "id": "18187",
+            "clinic": "Martensville Collective Health and Wellness",
+            "address1": " Box 2241",
+            "address2": " Martensville    S0K 2T0",
+            "address": " Box 2241  Martensville    S0K 2T0",
+            "phone": " (306) 933-4110",
+            "gender": "M",
+            "google-map": "https://maps.google.ca/maps?q=Box%202241%20Martensville",
+            "qualification": "Medical Degree M.D. IRELAND- National University of Ireland Ireland 5/25/2016 12:00:00 AM",
+            "speciality": "Family Medicine",
+            "url": "https://www.cps.sk.ca/imis/CPSS/Physician_Summary/Physician_Profile.aspx?ID=18187"
+        }
+    ]
+}
