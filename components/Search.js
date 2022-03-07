@@ -43,7 +43,7 @@ export default function Search() {
           <select
             className="form-select appearance-none
               block
-              w-full
+              w-48
               px-3
               py-1.5
               text-base
@@ -58,7 +58,7 @@ export default function Search() {
               focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none"
             aria-label="Default select example"
           >
-            <option selected>Open this select menu</option>
+            <option selected>Select speciality</option>
             <option value="1">One</option>
             <option value="2">Two</option>
             <option value="3">Three</option>
@@ -69,7 +69,7 @@ export default function Search() {
           <select
             className="form-select appearance-none
               block
-              w-full
+              w-48
               px-3
               py-1.5
               text-base
@@ -84,7 +84,7 @@ export default function Search() {
               focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none"
                     aria-label="Default select example"
           >
-            <option selected>Open this select menu</option>
+            <option selected>Select city</option>
             <option value="1">One</option>
             <option value="2">Two</option>
             <option value="3">Three</option>
