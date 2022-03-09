@@ -59,9 +59,19 @@ export default function Search() {
             aria-label="Default select example"
           >
             <option selected>Select speciality</option>
-            <option value="1">One</option>
-            <option value="2">Two</option>
-            <option value="3">Three</option>
+            <option value="1">Cardiology</option>
+            <option value="2">Child Health</option>
+            <option value="3">Dermatology</option>
+            <option value="1">Family Medicine</option>
+            <option value="2">Gastroenterology</option>
+            <option value="3">General Surgery</option>
+            <option value="1">Medical Genetics</option>
+            <option value="2">Respirology</option>
+            <option value="3">Vascular Surgery</option>
+            <option value="3">Occupational Medicine</option>
+            <option value="1">Neurology</option>
+            <option value="2">Diagnostic and Therapeutic Radiology</option>
+            <option value="3">Infectious Diseases</option>
           </select>
         </div>
 
@@ -85,9 +95,15 @@ export default function Search() {
                     aria-label="Default select example"
           >
             <option selected>Select city</option>
-            <option value="1">One</option>
-            <option value="2">Two</option>
-            <option value="3">Three</option>
+            <option value="Estevan">Estevan</option>
+            <option value="Martensille">Martensille</option>
+            <option value="Melfort">Melfort</option>
+            <option value="Melville">Melville</option>
+            <option value="Maoose Jaw">Maoose Jaw</option>
+            <option value="Regina">Regina</option>
+            <option value="Saskatoon">Saskatoon</option>
+            <option value="Warman">Warman</option>
+            <option value="Yorkton">Yorkton</option>
           </select>
         </div>
       </div>

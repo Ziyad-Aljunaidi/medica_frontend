@@ -19,7 +19,7 @@ export default function Navbar() {
     <div>
       <nav className="bg-white-gray-200 px-2 sm:px-4 py-2.5 dark:bg-blue-50">
         <div className="container flex flex-wrap justify-between items-center mx-auto">
-          <a href="#" className="flex">
+          <a href="./" className="flex">
             <Image
               src="/text-medica-logo.svg"
               width={160}
